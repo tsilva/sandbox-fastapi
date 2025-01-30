@@ -8,3 +8,5 @@ dependencies:
   - pip:
     - python-dotenv
     - fastapi[standard]
+    - sqlmodel
+    - asyncer
