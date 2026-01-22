@@ -6,7 +6,7 @@
   [![SQLModel](https://img.shields.io/badge/SQLModel-ORM-orange.svg)](https://sqlmodel.tiangolo.com/)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-  **A simple REST API demonstrating CRUD operations using FastAPI and SQLModel with SQLite persistence**
+  **⚡ A simple REST API demonstrating CRUD operations using FastAPI and SQLModel with SQLite persistence 🗃️**
 
   [API Docs](http://localhost:8000/docs) · [ReDoc](http://localhost:8000/redoc)
 </div>
