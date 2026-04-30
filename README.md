@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-fastapi" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-fastapi/main/logo.png" alt="sandbox-fastapi" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
   [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-00a393.svg)](https://fastapi.tiangolo.com/)
