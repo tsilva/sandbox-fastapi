@@ -1,18 +1,20 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-fastapi/main/logo.png" alt="sandbox-fastapi" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>⚡ Build a CRUD API with FastAPI, SQLModel, and SQLite 🗃️</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
   [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-00a393.svg)](https://fastapi.tiangolo.com/)
   [![SQLModel](https://img.shields.io/badge/SQLModel-ORM-orange.svg)](https://sqlmodel.tiangolo.com/)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-  **⚡ A simple REST API demonstrating CRUD operations using FastAPI and SQLModel with SQLite persistence 🗃️**
-
   [API Docs](http://localhost:8000/docs) · [ReDoc](http://localhost:8000/redoc)
-</div>
+
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Overview
 
